@@ -1,0 +1,22 @@
+.contener {
+    background-color: red;
+}
+
+.row {
+    text-align: center;
+}
+
+button {
+    background-color: #dadce0;
+    font-size: 35px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 1px;
+    width: 60px;
+    margin: 3px;
+    box-shadow: 2px 1px #3c4043;
+
+
+
+
+}

@@ -15,8 +15,13 @@ button {
     width: 60px;
     margin: 3px;
     box-shadow: 2px 1px #3c4043;
+}
 
-
-
-
+#text-input {
+    font-size: 22px;
+    padding-top: 20px;
+    text-align: end;
+    border-radius: 10px;
+    border-color:white;
+    
 }
